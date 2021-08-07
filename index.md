@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+# Bem vindas e bem vindos
+
+Esta página blablabla. 
+
+## Cursos ministrados
+
+### Na UFRPE
+
+2020.2 - Elementos de lógica matemática e Otimização combinatória
+
+
+
 
 You can use the [editor on GitHub](https://github.com/wandersonufrpe/Logica/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
